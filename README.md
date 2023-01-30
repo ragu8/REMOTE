@@ -2,29 +2,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragu8&label=Profile%20views&color=0e75b6&style=flat" alt="ragu8" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!;I+love+building+things+that+live+on+the+internet">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!">
   </a>
 </h1>
 
 
 
-### Hi there 👋
-This is Minesh, 
+
+### This is Ragu 👦, 
 
 <!-- table border="0"><tr><td width="100%" -->
   <!-- pre -->
 
-- 🔭 I’m currently working on ... 
-    *  Time Series Sequence Modeling for IoT sensor monitoring
-- Previous experiance as ...
-    *  Researcher at [Ben Gurion University](https://in.bgu.ac.il/en/Pages/default.aspx), Israel.
-    *  Co-Founder of [DiSCo - Data Science Community](https://www.bengis.org/disco) at [Ben-Gurion University](https://in.bgu.ac.il/en/pages/default.aspx), Israel 
-    *  Researcher at [International Centre for Genetic Engineering and Biotechnology](http://www.icgeb.org/)
-    *  M.Sc. Computational Biology
-    *  B.Sc. Computational Biology
-
-- 💬 Ask me about ... 
-    Data Science, Machine Learning and Deep Learning 
+- 🔭 I'm in the midst of working on... 
+ 
+    *  Junior Data Scientist  at [Galaxy Technology Services](https://galaxytechnologyservices.net/), Singapore.
+    
+- 💬 Query me on ... 
+    Data Science, Quantum Computing, Machine Learning and Deep Learning.
 
 - 📫 How to reach me: ... 
     write me on </pre> <a href="https://LinkedIn.com/in/mineshjethva">LinkedIn</a> 
@@ -70,10 +65,10 @@ Notebooks:
 <table>
     <tr>
         <td width="56%">
-            <strong>Time Series Domain:</strong>
+            <strong>Image Classification Domain:</strong>
             <ol>
-                <li><a href="https://www.kaggle.com/mineshjethva/timeseries-anomaly-detection-using-rnn-autoencoder" rel="nofollow">Time Series Anomaly Detection Using RNN Autoencoder</a></li>
-                <li><a href="https://www.kaggle.com/mineshjethva/ecg-model" rel="nofollow">ECG Classification using WaveNet Blocks</a></li>
+                <li><a href="https://github.com/ragu8/CLASSIFICATION/blob/main/Classification.ipynb" rel="nofollow">Classification using Convolutional Neural Networks </a></li>
+                <li><a href="https://github.com/ragu8/CLASSIFICATION/blob/main/Comparison.ipynb" rel="nofollow">Comparing RRNet, AlexNet, and LeNet: A Comprehensive Study of Deep Learning Architectures for Image Classification </a></li>
                 <li><a href="https://www.kaggle.com/mineshjethva/weather-forcasting-lasso-gridcv?scriptVersionId=3567529" rel="nofollow">Weather Forecasting with Lasso GridCV</a></li>
                 <li><a href="https://www.kaggle.com/mineshjethva/time-series-forecasting-with-lstm-for-uni-multivar" rel="nofollow">Time Series Forecasting with LSTM for Univariate &amp; Multivariate</a></li>
                 <li><a href="https://www.kaggle.com/mineshjethva/power-grid-stability-with-deep-learning" rel="nofollow">Power Grid Stability with Deep Learning</a></li>
